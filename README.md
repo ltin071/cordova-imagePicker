@@ -1,3 +1,5 @@
+***I didn't write any code in this repo, I created this is to solve the line 293 imagefetch.java compile error for linkedhashedmap. Credit to all those previous developers.
+
 cordova-imagePicker
 ===================
 
@@ -8,9 +10,9 @@ Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.
 The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
-    phonegap plugin add cordova-plugin-image-picker
+    phonegap plugin add @ltin071/cordova-plugin-image-picker
 
-    cordova plugin add cordova-plugin-image-picker
+    cordova plugin add @ltin071/cordova-plugin-image-picker
 
 
 ## Using the plugin
